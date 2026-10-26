@@ -23,8 +23,6 @@ h1, h2 {
     text-align: center;
     margin: 10px 0;
     background: #a200ff;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 
 h1 {
